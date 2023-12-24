@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/总学时40-gold)   ![Static Badge](https://img.shields.io/badge/实验4学时*10-moccasin)
 
 ## 课程基本信息
-- 课程信息见文件《实践A课程设计 PPT1.2  1110》（整理好报告后一起上传）。
+- 课程信息见文件《实践A课程设计 PPT1.2  1110》。
 
 ## 课程建议
 - 期末考后来更新。
