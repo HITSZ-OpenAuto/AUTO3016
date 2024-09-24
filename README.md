@@ -22,4 +22,4 @@
 - 学长锐评：过家家，不如直接做 FOC。
 - 我的锐评：是什么让学生过家家也过不清楚了？
 
-> 文/ [Oliver Wu](www.github.com/OliverWu515)，2024.9
+> 文/ [Oliver Wu](https://www.github.com/OliverWu515)，2024.9
