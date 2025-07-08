@@ -1,0 +1,237 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1418,
+    "time": 1751969467,
+    "hash": "8f2a419ac932d9c18c7d00e0f854f72189b0885f"
+  },
+  ".hoa/worktree.json": {
+    "size": 7280,
+    "time": 1751904893,
+    "hash": "9ba63956c41e83e5b18be29ebb4d25613a6ab53d"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083247,
+    "hash": "1561c9bda42605cf3f2118d08e1a4e96bc9c0e2f"
+  },
+  "README.md": {
+    "size": 4850,
+    "time": 1737197535,
+    "hash": "77ec1c5419615a0f131aa43ff7d77b64c5f18fe5"
+  },
+  "labs/2022/2022_MA_自动控制实践课程设计.pdf": {
+    "size": 3130468,
+    "time": 1737197535,
+    "hash": "77ec1c5419615a0f131aa43ff7d77b64c5f18fe5"
+  },
+  "labs/2022/2022_Tintin_自动控制实践课程设计报告.pdf": {
+    "size": 11423637,
+    "time": 1737197535,
+    "hash": "77ec1c5419615a0f131aa43ff7d77b64c5f18fe5"
+  },
+  "labs/2022/2022_实验要求与流程.pdf": {
+    "size": 2415692,
+    "time": 1737197535,
+    "hash": "77ec1c5419615a0f131aa43ff7d77b64c5f18fe5"
+  },
+  "labs/2022/机械特性.xlsx": {
+    "size": 17376,
+    "time": 1737197535,
+    "hash": "77ec1c5419615a0f131aa43ff7d77b64c5f18fe5"
+  },
+  "labs/2023/LJH/README.md": {
+    "size": 524,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容1.docx": {
+    "size": 3050584,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容2.docx": {
+    "size": 211590,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容3.docx": {
+    "size": 1916636,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容4.docx": {
+    "size": 359265,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容5.docx": {
+    "size": 3323837,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容6.docx": {
+    "size": 653032,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容7.docx": {
+    "size": 1156975,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容8.docx": {
+    "size": 663364,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/LJH/自动控制实践(A)课程设计 - 内容9.docx": {
+    "size": 52024,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告1.docx": {
+    "size": 2473879,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告2.docx": {
+    "size": 451074,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告3.docx": {
+    "size": 1316227,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告4.docx": {
+    "size": 525494,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告5.docx": {
+    "size": 1133672,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告6.docx": {
+    "size": 1139866,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告7.docx": {
+    "size": 1817742,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告8.docx": {
+    "size": 1045260,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/报告9.docx": {
+    "size": 1081071,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2023/WJD/自动控制实践A课程设计答辩PPT_231216 V1.2.pdf": {
+    "size": 3365950,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/code/mechanical_characteristic_curve.m": {
+    "size": 1008,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/final_report_psp.pptx": {
+    "size": 6449256,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 1.docx": {
+    "size": 544913,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 2.docx": {
+    "size": 888942,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 3.docx": {
+    "size": 1059106,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 4.docx": {
+    "size": 1133666,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 5.docx": {
+    "size": 1167152,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 6.docx": {
+    "size": 857587,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 7.docx": {
+    "size": 3270766,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 8.docx": {
+    "size": 4114579,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/reports/自控实践A综合实验内容 9.docx": {
+    "size": 864251,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/simu/L298.pdsprj": {
+    "size": 14603,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/2024/psp/simu/encoder_quadrature_circuit.ms14": {
+    "size": 103198,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "labs/README.md": {
+    "size": 147,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737549628,
+    "hash": "bf6a9129bf36e8d3868a31b0fe54103faa7cb926"
+  },
+  "materials/2024_自动控制实践A综合实验.pdf": {
+    "size": 1467678,
+    "time": 1737197535,
+    "hash": "77ec1c5419615a0f131aa43ff7d77b64c5f18fe5"
+  },
+  "materials/MATLAB处理示波器数据by_tch.pdf": {
+    "size": 440703,
+    "time": 1703590052,
+    "hash": "9f2289a6f17510314daaa72a033639d25add05c2"
+  },
+  "materials/课内检查与记录表.doc": {
+    "size": 39936,
+    "time": 1736784848,
+    "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
+  },
+  "tag.txt": {
+    "size": 77,
+    "time": 1727065955,
+    "hash": "653d4ccca52a2a0e56c1f9e7905612e0944f68f1"
+  }
+}
