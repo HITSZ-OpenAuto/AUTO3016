@@ -1,4 +1,6 @@
 # AUTO3016 - 自动控制实践 A 实验
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![实验报告90%(10%×9)+答辩10%](https://img.shields.io/badge/实验报告90%25(10%25×9)+答辩-10%25-wheat)
@@ -12,17 +14,23 @@
 ## 授课教师
 
 - 隆志力/李洪泉
+  <!-- TOML-ITEM: id="review-隆志力/李洪泉-1" -->
   - 两位老师一般在同一间教室。
   - 管理比较宽松，对于学生「借鉴」往届报告并不在意。
     > 文 / [Oliver Wu](https://www.github.com/OliverWu515)，2025-01
 - 王彬彬
+  <!-- TOML-ITEM: id="review-王彬彬-1" -->
   - 拷打格式之王。
   - 会问出一些莫名其妙的问题，比如，甚至认为占空比越大电机转速越快（实则正转、反转以 50% 为分界，并非单调相关）。
     > 文 / [Oliver Wu](https://www.github.com/OliverWu515)，2025-01
 - 宋金华
+  <!-- TOML-ITEM: id="review-宋金华-1" -->
   - 暂无详细评价。
 
 ## 课程建议
+<!-- TOML-SECTION: title="课程建议" -->
+
+<!-- TOML-ITEM: id="item-课程建议-1" -->
 
 课程性质：
 
