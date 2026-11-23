@@ -62,3 +62,7 @@ content = """
 - 我的锐评：是什么让学生过家家也过不清楚了？
 """
 author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01" }
+
+[[sections.items]]
+content = "建议仿真直接使用 Proteus，Multisim 可能会出现部分芯片找不到的问题。"
+author = { name = "BCC", link = "https://github.com/BCCHIT", date = "2026-11" }

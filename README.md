@@ -50,7 +50,7 @@
 
 > 文 / [Oliver Wu](https://www.github.com/OliverWu515)，2025-01
 
-<!-- TOML-ITEM: id="item-课程建议-bcc-2025" -->
+<!-- TOML-ITEM: id="item-课程建议-2" -->
 
 建议仿真直接使用 Proteus，Multisim 可能会出现部分芯片找不到的问题。
 
