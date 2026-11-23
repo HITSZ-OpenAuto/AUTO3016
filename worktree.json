@@ -10,9 +10,9 @@
     "hash": "1561c9bda42605cf3f2118d08e1a4e96bc9c0e2f"
   },
   "README.md": {
-    "size": 4524,
-    "time": 1791961165,
-    "hash": "c4ddd18573e59088d0d2a64fd9bd930c7cf8c2fc"
+    "size": 4716,
+    "time": 1795393360,
+    "hash": "98523961396a7423284f915ae7ffbf9401249e9e"
   },
   "labs/2022/2022_MA_自动控制实践课程设计.pdf": {
     "size": 3130468,
@@ -199,6 +199,86 @@
     "time": 1736784848,
     "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
   },
+  "labs/2025/BCC/code/MechanicalCharacteristic.m": {
+    "size": 3851,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容1.docx": {
+    "size": 3016400,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容2.docx": {
+    "size": 1908038,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容3.docx": {
+    "size": 1050363,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容4.docx": {
+    "size": 1630001,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容5.docx": {
+    "size": 1173285,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容6.docx": {
+    "size": 465827,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容7.docx": {
+    "size": 1082198,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容8.docx": {
+    "size": 402547,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/reports/内容9.docx": {
+    "size": 717332,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/simu/Encoder 4 Division.pdsprj": {
+    "size": 14547,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/simu/TL494PWM_final.pdsprj": {
+    "size": 16083,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/simu/TL494PWM_simulation.pdsprj": {
+    "size": 16088,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/simu/TL494_L298_ACS712_PWM_and_Current_Detection.pdsprj": {
+    "size": 23711,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/simu/TL494_L298_PWM_amplified.pdsprj": {
+    "size": 22302,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
+  "labs/2025/BCC/自控实践A实验答辩.pptx": {
+    "size": 12208614,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
   "labs/README.md": {
     "size": 147,
     "time": 1736784848,
@@ -214,6 +294,11 @@
     "time": 1737197535,
     "hash": "77ec1c5419615a0f131aa43ff7d77b64c5f18fe5"
   },
+  "materials/2025_自动控制实践A实验.pdf": {
+    "size": 1477474,
+    "time": 1795393344,
+    "hash": "8c31f613e67184685471ee51c2b5855b034cd08c"
+  },
   "materials/MATLAB处理示波器数据by_tch.pdf": {
     "size": 440703,
     "time": 1703590052,
@@ -225,8 +310,8 @@
     "hash": "e773fd2ff8503fd370ca0fb62e5c7c8ea3006133"
   },
   "readme.toml": {
-    "size": 4608,
-    "time": 1773427803,
-    "hash": "4d890ae9436847ceef9fd3f5dee052744c9b349d"
+    "size": 4813,
+    "time": 1795393360,
+    "hash": "98523961396a7423284f915ae7ffbf9401249e9e"
   }
 }
