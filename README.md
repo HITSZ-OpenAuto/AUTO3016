@@ -49,3 +49,9 @@
 - 我的锐评：是什么让学生过家家也过不清楚了？
 
 > 文 / [Oliver Wu](https://www.github.com/OliverWu515)，2025-01
+
+<!-- TOML-ITEM: id="item-课程建议-bcc-2025" -->
+
+建议仿真直接使用 Proteus，Multisim 可能会出现部分芯片找不到的问题。
+
+> 文 / [BCC](https://github.com/BCCHIT)，2026-11
